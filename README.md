@@ -7,8 +7,8 @@ Therefor,it is very important to understand the relation between the characteris
 
 ## Data Description 
 
-- Total number of rows in data : 8760
-- Total number of columns : 14
+- Total number of rows in data : 2000
+- Total number of columns : 21
 The features given in the dataset are:
 - Battery_power : Total energy a battery that can be stored in one time measured in MAh.
 - Bluetooth : Has bluetooth or not.
